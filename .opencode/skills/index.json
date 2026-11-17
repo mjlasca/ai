@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "name": "codebase-learning-mentor",
+      "version": "1.0.0",
+      "files": ["SKILL.md"]
+    },
+    {
+      "name": "seo-audit",
+      "version": "1.0.0",
+      "files": ["SKILL.md"]
+    },
+    {
+      "name": "seo-content-creator",
+      "version": "1.0.0",
+      "files": ["SKILL.md"]
+    },
+    {
+      "name": "social-media-marketing",
+      "version": "1.0.0",
+      "files": ["SKILL.md"]
+    }
+  ]
+}
